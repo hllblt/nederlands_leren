@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+
+.sections {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 3px solid black;
+    div{
+        background-color: rgba(255, 255, 255, 0.774);
+        width: 100%;
+        padding-left: 10%;
+
+    }
+    .links {
+        text-decoration: none;
+        font-size: 50px;
+        color: white;
+        background-color: rgb(70, 67, 67);
+        display: inline-block;
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 0;
+        border-radius: 10px;
+        transition: 0.3s linear;
+    }
+    .links:hover{
+        color: rgb(22, 155, 22);
+        background-color: white;
+    }
+}
+
+#flitskaarten {
+    background-color: rgba(255, 0, 0, 0.7);
+
+}
+#werkwoordvervoegingen {
+    background-color: rgba(0, 128, 0, 0.7);
+}
+
+#werkwoordPuzzel {
+    background-color: rgba(255, 166, 0, 0.7);
+}
+
+#testen {
+    background-color: rgba(0, 0, 255, 0.7);
+}
