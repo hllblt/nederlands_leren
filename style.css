@@ -10,6 +10,18 @@ body {
   width: 100vw;
 }
 
+@media screen and (max-width: 480px) {
+  main {
+    display: block;
+  }
+  main .sections {
+    width: 100%;
+    height: 100%;
+  }
+  main #werkwoordvervoegingen h2 {
+    font-size: 1.4rem;
+  }
+}
 main {
   display: flex;
   flex-wrap: wrap;
@@ -27,17 +39,27 @@ main {
   border: 3px solid black;
 }
 .sections div {
-  background-color: rgba(255, 255, 255, 0.774);
   width: 100%;
+  display: flex;
+  justify-content: end;
+}
+.sections div h2 {
   padding-left: 10%;
+  background-color: rgba(255, 255, 255, 0.774);
+  width: 90%;
+  font-size: 2rem;
+  height: 80px;
+  vertical-align: middle;
+  line-height: 80px;
 }
 .sections .links {
   text-decoration: none;
-  font-size: 50px;
+  font-size: 3rem;
   color: white;
   background-color: rgb(70, 67, 67);
   display: inline-block;
   width: 30%;
+  min-width: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
