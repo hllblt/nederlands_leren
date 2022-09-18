@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.wordContainer {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 20px 0 0 20px;
+}
+.wordContainer h3 {
+  font-size: 40px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.lettersContainer {
+  margin: 20px 0 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.lettersContainer button {
+  margin: 0 10px 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: gray;
+  color: white;
+  font-size: 1.5rem;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  transition: 0.2s linear;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lettersContainer .deactivatedButtons {
+  background-color: lightgrey;
+  color: gray;
+}
+.lettersContainer .deactivatedButtons:hover {
+  background-color: lightgray;
+  color: gray;
+}
+.lettersContainer button:hover {
+  background-color: #4d4d4d;
+}/*# sourceMappingURL=hangman.css.map */
