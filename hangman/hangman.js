@@ -1190,7 +1190,11 @@ function letterSender(id) {
 function buttonDeactivator(id) {
     document.getElementById(id).classList.add("deactivatedButtons");
     document.getElementById(id).disabled = true;
-    document.getElementById(id).style.cursor = "default";
+    if(isFinished){
+        for(let i=0; i<document.getElementsByTagName("button").length;i++){
+            document.getElementsByTagName("button")[i].disabled = true;
+        }
+    }
 }
 //-------- ATANAN HARFLERE AİT BUTONLARIN DEACTİVE EDİLMESİ --------//
 
@@ -1203,11 +1207,12 @@ function finishCheck(){
             break;
         }
         // console.log("finished");
-        isFinished = true;
-        
-    }
-    if(isFinished){
-        console.log("finished");
+        if(i === (wordLettersArray.length-1)){
+            isFinished = true;
+            console.log("FINISHED");
+            
+            buttonDeactivator("letterButtona")
+        }
         
     }
 }
