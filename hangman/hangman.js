@@ -1,3 +1,6 @@
+// import words from "./words.json";
+// console.log(wordsArray);
+
 const yazi = `ik		I
 ik heet		my name is
 ik ben		I am
@@ -1045,6 +1048,9 @@ de winkel		the shop
 voor		before
 `;
 
+
+
+
 // console.log(`
 // `)
 
@@ -1092,7 +1098,6 @@ const lettersArray = [
     "u",
     "v",
     "w",
-    "y",
     "z",
 ];
 

@@ -1,0 +1,4470 @@
+{
+    "first": [
+        [
+            "ik",
+            "I",
+            "Ben"
+        ],
+        [
+            "ik heet",
+            "my name is",
+            "Benim adım"
+        ],
+        [
+            "ik ben",
+            "I am",
+            "Ben ...'im"
+        ],
+        [
+            "een",
+            "a",
+            "bir"
+        ],
+        [
+            "de",
+            "the",
+            "belirli tanım edatı"
+        ],
+        [
+            "het",
+            "the",
+            "belirli tanım edatı"
+        ],
+        [
+            "de man",
+            "the man",
+            "adam"
+        ],
+        [
+            "de vrouw",
+            "the woman",
+            "kadın"
+        ],
+        [
+            "de jongen",
+            "the boy",
+            "oğlan"
+        ],
+        [
+            "het meisje",
+            "the girl",
+            "kız"
+        ],
+        [
+            "het huis",
+            "the house",
+            "ev"
+        ],
+        [
+            "hallo",
+            "hello",
+            "merhaba"
+        ],
+        [
+            "hoi",
+            "hi",
+            "selam"
+        ],
+        [
+            "goed",
+            "good",
+            "iyi"
+        ],
+        [
+            "slecht",
+            "bad",
+            "kötü"
+        ],
+        [
+            "morgen",
+            "morning",
+            "sabah"
+        ],
+        [
+            "morgen",
+            "tomorrow",
+            "yarın"
+        ],
+        [
+            "goedemorgen",
+            "good morning",
+            "günaydın"
+        ],
+        [
+            "avond",
+            "evening",
+            "akşam"
+        ],
+        [
+            "goedenavond",
+            "good evening",
+            "iyi akşamlar"
+        ],
+        [
+            "dag",
+            "day",
+            "gün"
+        ],
+        [
+            "goedendag",
+            "good day !",
+            "iyi günler"
+        ],
+        [
+            "tot ziens",
+            "see you",
+            "görüşürüz"
+        ],
+        [
+            "tot",
+            "until",
+            "-e kadar"
+        ],
+        [
+            "doei",
+            "bye",
+            "bay bay"
+        ],
+        [
+            "alsjeblieft",
+            "here you are",
+            "buyrun"
+        ],
+        [
+            "alstublieft",
+            "here you are",
+            "buyrun(saygılı)"
+        ],
+        [
+            "alsjeblieft",
+            "please",
+            "lütfen"
+        ],
+        [
+            "a.u.b.",
+            "please",
+            "lütfen"
+        ],
+        [
+            "dank je wel",
+            "thank you",
+            "teşekkür ederim"
+        ],
+        [
+            "ja",
+            "yes",
+            "evet"
+        ],
+        [
+            "nee",
+            "no",
+            "hayır"
+        ],
+        [
+            "niet",
+            "not",
+            "(olumsuz)"
+        ],
+        [
+            "roken",
+            "to smoke",
+            "sigara içmek"
+        ],
+        [
+            "wel",
+            "(confirmative)",
+            "(onaylayıcı/doğrulayıcı)"
+        ],
+        [
+            "misschien",
+            "maybe",
+            "belki"
+        ],
+        [
+            "links",
+            "left",
+            "sol"
+        ],
+        [
+            "rechts",
+            "right",
+            "sağ"
+        ],
+        [
+            "of",
+            "or",
+            "ya da/veya"
+        ],
+        [
+            "en",
+            "and",
+            "ve"
+        ],
+        [
+            "jij",
+            "you",
+            "sen"
+        ],
+        [
+            "je",
+            "you",
+            "sen"
+        ],
+        [
+            "hij",
+            "he",
+            "o(erkek)"
+        ],
+        [
+            "zij",
+            "she",
+            "o(dişi)"
+        ],
+        [
+            "ze",
+            "she",
+            "o(dişi)"
+        ],
+        [
+            "wij",
+            "we",
+            "biz"
+        ],
+        [
+            "we",
+            "we",
+            "biz"
+        ],
+        [
+            "jullie",
+            "you",
+            "siz"
+        ],
+        [
+            "zij",
+            "they",
+            "onlar"
+        ],
+        [
+            "ze",
+            "they",
+            "onlar"
+        ],
+        [
+            "u",
+            "you",
+            "siz(saygılı)"
+        ],
+        [
+            "zijn",
+            "to be",
+            "olmak"
+        ],
+        [
+            "de leraar",
+            "the teacher",
+            "öğretmen"
+        ],
+        [
+            "blij",
+            "happy",
+            "mutlu"
+        ],
+        [
+            "leuk",
+            "funny",
+            "eğlenceli"
+        ],
+        [
+            "mooi",
+            "pretty",
+            "güzel"
+        ],
+        [
+            "oud",
+            "old",
+            "yaşlı"
+        ],
+        [
+            "jong",
+            "young",
+            "genç"
+        ],
+        [
+            "de voetballer",
+            "the football player",
+            "futbolcu"
+        ],
+        [
+            "de premier",
+            "the prime minister",
+            "başbakan"
+        ],
+        [
+            "de student",
+            "the student",
+            "öğrenci"
+        ],
+        [
+            "de leerling",
+            "the scholar",
+            "öğrenci"
+        ],
+        [
+            "de baas",
+            "the boss",
+            "patron"
+        ],
+        [
+            "de bakker",
+            "the baker",
+            "fırıncı"
+        ],
+        [
+            "de slager",
+            "the butcher",
+            "kasap"
+        ],
+        [
+            "de boer",
+            "the farmer",
+            "çiftçi"
+        ],
+        [
+            "de visser",
+            "the fisherman",
+            "balıkçı"
+        ],
+        [
+            "de advocaat",
+            "the lawyer",
+            "avukat"
+        ],
+        [
+            "de dokter",
+            "the doctor",
+            "doktor"
+        ],
+        [
+            "de ober",
+            "the waiter",
+            "garson"
+        ],
+        [
+            "de politieman",
+            "the police officer",
+            "polis memuru"
+        ],
+        [
+            "de agent",
+            "the police officer",
+            "polis memuru"
+        ],
+        [
+            "de kapper",
+            "the hairdresser",
+            "berber"
+        ],
+        [
+            "de directeur",
+            "the (company) director",
+            "yönetici"
+        ],
+        [
+            "de boekhouder",
+            "the accountant",
+            "muhasebeci"
+        ],
+        [
+            "de verkoper",
+            "the salesman",
+            "satış elemanı"
+        ],
+        [
+            "de vertegenwoordiger",
+            "the representative",
+            "temsilci/reprezant"
+        ],
+        [
+            "eten & drinken",
+            "food & drinks",
+            "yiyecek & içecek"
+        ],
+        [
+            "de groente",
+            "the vegetables",
+            "sebze"
+        ],
+        [
+            "het fruit",
+            "the fruits",
+            "meyve"
+        ],
+        [
+            "het brood",
+            "the bread",
+            "ekmek"
+        ],
+        [
+            "de kaas",
+            "the cheese",
+            "peynir"
+        ],
+        [
+            "de hagelslag",
+            "the chocolate sprinkles",
+            "eti puf çikolata taneleri"
+        ],
+        [
+            "de pindakaas",
+            "the peanut butter",
+            "fıstık ezmesi"
+        ],
+        [
+            "de melk",
+            "the milk",
+            "süt"
+        ],
+        [
+            "de koffie",
+            "the coffee",
+            "kahve"
+        ],
+        [
+            "de thee",
+            "the tea",
+            "çay"
+        ],
+        [
+            "de aardappel",
+            "the potato",
+            "patates"
+        ],
+        [
+            "de aardappeleter",
+            "the potato-eater",
+            "patates yiyici"
+        ],
+        [
+            "het bier",
+            "the beer",
+            "bira"
+        ],
+        [
+            "de wijn",
+            "the wine",
+            "şarap"
+        ],
+        [
+            "het water",
+            "the water",
+            "su"
+        ],
+        [
+            "het vlees",
+            "the meat",
+            "et"
+        ],
+        [
+            "de kip",
+            "the chicken",
+            "tavuk"
+        ],
+        [
+            "de friet",
+            "the French fries",
+            "patates kızartması"
+        ],
+        [
+            "frietje met",
+            "French fries with mayonnaise",
+            "mayonezli patates kızartması"
+        ],
+        [
+            "de frikadel",
+            "Dutch meat sausage",
+            "hollanda usulü sosis"
+        ],
+        [
+            "de kroket",
+            "Dutch fried ragout bar",
+            "kroket"
+        ],
+        [
+            "de pannenkoek",
+            "the pancake",
+            "pankek"
+        ],
+        [
+            "de stroopwafel",
+            "the syrup waffle",
+            "hollanda waffle"
+        ],
+        [
+            "drop",
+            "liquorice",
+            "drop"
+        ],
+        [
+            "de, het snoep",
+            "the sweets",
+            "şekerleme"
+        ],
+        [
+            "wie",
+            "who",
+            "kim"
+        ],
+        [
+            "wat",
+            "what",
+            "ne"
+        ],
+        [
+            "dat",
+            "that",
+            "o"
+        ],
+        [
+            "dit",
+            "this",
+            "bu"
+        ],
+        [
+            "welke",
+            "which",
+            "hangi"
+        ],
+        [
+            "deze",
+            "these, this",
+            "bu"
+        ],
+        [
+            "die",
+            "that, those",
+            "o/onlar"
+        ],
+        [
+            "waar",
+            "where",
+            "nerede"
+        ],
+        [
+            "hier",
+            "here",
+            "burada"
+        ],
+        [
+            "daar",
+            "there",
+            "orada"
+        ],
+        [
+            "wanneer",
+            "when",
+            "ne zaman"
+        ],
+        [
+            "dan",
+            "then",
+            "o zaman"
+        ],
+        [
+            "toen",
+            "at that time (past)",
+            "o zaman(geçmiş)"
+        ],
+        [
+            "terwijl",
+            "while",
+            "iken"
+        ],
+        [
+            "hoe",
+            "how",
+            "nasıl"
+        ],
+        [
+            "zo",
+            "like this",
+            "böyle"
+        ],
+        [
+            "hoeveel",
+            "how much",
+            "ne kadar"
+        ],
+        [
+            "de bloem",
+            "the flower",
+            "çiçek"
+        ],
+        [
+            "waarom",
+            "why",
+            "neden"
+        ],
+        [
+            "daarom",
+            "that's why",
+            "bu yüzden"
+        ],
+        [
+            "want",
+            "because",
+            "çünkü"
+        ],
+        [
+            "omdat",
+            "because",
+            "çünkü"
+        ],
+        [
+            "maar",
+            "but",
+            "ama"
+        ],
+        [
+            "behalve",
+            "except",
+            "hariç"
+        ],
+        [
+            "de fiets",
+            "the bike",
+            "bisiklet"
+        ],
+        [
+            "de straat",
+            "the street",
+            "sokak"
+        ],
+        [
+            "de weg",
+            "the road",
+            "yol"
+        ],
+        [
+            "de snelweg",
+            "the highway",
+            "otoyol"
+        ],
+        [
+            "de auto",
+            "the car",
+            "araba"
+        ],
+        [
+            "de bus",
+            "the bus",
+            "otobüs"
+        ],
+        [
+            "de tram",
+            "the tram",
+            "tramvay"
+        ],
+        [
+            "de halte",
+            "the stopping place",
+            "durak"
+        ],
+        [
+            "de metro",
+            "the metro",
+            "metro"
+        ],
+        [
+            "de boot",
+            "the boat",
+            "bot/gemi"
+        ],
+        [
+            "het vliegtuig",
+            "the airplane",
+            "uçak"
+        ],
+        [
+            "het vliegveld",
+            "the airport",
+            "havalimanı"
+        ],
+        [
+            "de haven",
+            "the port",
+            "liman"
+        ],
+        [
+            "het station",
+            "the railway station",
+            "tren istasyonu"
+        ],
+        [
+            "het kantoor",
+            "the office",
+            "ofis"
+        ],
+        [
+            "de winkel",
+            "the shop",
+            "dükkan"
+        ],
+        [
+            "de supermarkt",
+            "the supermarket",
+            "süpermarket"
+        ],
+        [
+            "het ziekenhuis",
+            "the hospital",
+            "hastane"
+        ],
+        [
+            "de apotheek",
+            "the pharmacy",
+            "eczane"
+        ],
+        [
+            "het zwembad",
+            "the swimming pool",
+            "yüzme havuzu"
+        ],
+        [
+            "de sporthal",
+            "the sports hall",
+            "spor salonu"
+        ],
+        [
+            "het politiebureau",
+            "the police station",
+            "polis karakolu"
+        ],
+        [
+            "de bibliotheek",
+            "the library",
+            "kütüphane"
+        ],
+        [
+            "de school",
+            "the school",
+            "okul"
+        ],
+        [
+            "de universiteit",
+            "the university",
+            "üniversite"
+        ],
+        [
+            "nul",
+            "zero",
+            "sıfır"
+        ],
+        [
+            "een",
+            "one",
+            "bir"
+        ],
+        [
+            "twee",
+            "two",
+            "iki"
+        ],
+        [
+            "drie",
+            "three",
+            "üç"
+        ],
+        [
+            "vier",
+            "four",
+            "dört"
+        ],
+        [
+            "vijf",
+            "five",
+            "beş"
+        ],
+        [
+            "zes",
+            "six",
+            "altı"
+        ],
+        [
+            "zeven",
+            "seven",
+            "yedi"
+        ],
+        [
+            "acht",
+            "eight",
+            "sekiz"
+        ],
+        [
+            "negen",
+            "nine",
+            "dokuz"
+        ],
+        [
+            "tien",
+            "ten",
+            "on"
+        ],
+        [
+            "elf",
+            "eleven",
+            "on bir"
+        ],
+        [
+            "twaalf",
+            "twelve",
+            "on iki"
+        ],
+        [
+            "dertien",
+            "thirteen",
+            "on üç"
+        ],
+        [
+            "veertien",
+            "fourteen",
+            "on dört"
+        ],
+        [
+            "vijftien",
+            "fifteen",
+            "on beş"
+        ],
+        [
+            "twintig",
+            "twenty",
+            "yirmi"
+        ],
+        [
+            "eenentwintig",
+            "twenty one",
+            "yirmi bir"
+        ],
+        [
+            "dertig",
+            "thirty",
+            "otuz"
+        ],
+        [
+            "veertig",
+            "forty",
+            "kırk"
+        ],
+        [
+            "vijftig",
+            "fifty",
+            "elli"
+        ],
+        [
+            "honderd",
+            "hundred",
+            "yüz"
+        ],
+        [
+            "tweehonderd",
+            "two hundred",
+            "iki yüz"
+        ],
+        [
+            "duizend",
+            "thousand",
+            "bin"
+        ],
+        [
+            "miljoen",
+            "million",
+            "milyon"
+        ],
+        [
+            "lopen",
+            "to walk",
+            "yürümek"
+        ],
+        [
+            "hebben",
+            "to have",
+            "sahip olmak"
+        ],
+        [
+            "worden",
+            "to become",
+            "olmak"
+        ],
+        [
+            "gaan",
+            "to go",
+            "gitmek"
+        ],
+        [
+            "vragen",
+            "to ask",
+            "sormak"
+        ],
+        [
+            "kopen",
+            "to buy",
+            "satın almak"
+        ],
+        [
+            "krijgen",
+            "to get",
+            "almak"
+        ],
+        [
+            "eten",
+            "to eat",
+            "yemek(fiil)"
+        ],
+        [
+            "drinken",
+            "to drink",
+            "içmek"
+        ],
+        [
+            "rijden",
+            "to drive",
+            "sürmek"
+        ],
+        [
+            "vergeten",
+            "to forget",
+            "unutmak"
+        ],
+        [
+            "horen",
+            "to hear",
+            "duymak"
+        ],
+        [
+            "luisteren",
+            "to listen",
+            "dinlemek"
+        ],
+        [
+            "zien",
+            "to see",
+            "görmek"
+        ],
+        [
+            "kijken",
+            "to look",
+            "bakmak"
+        ],
+        [
+            "weten",
+            "to know",
+            "bilmek"
+        ],
+        [
+            "leren",
+            "to learn",
+            "öğrenmek"
+        ],
+        [
+            "slapen",
+            "to sleep",
+            "uyumak"
+        ],
+        [
+            "lezen",
+            "to read",
+            "okumak"
+        ],
+        [
+            "schrijven",
+            "to write",
+            "yazmak"
+        ],
+        [
+            "spreken",
+            "to speak",
+            "konuşmak"
+        ],
+        [
+            "zeggen",
+            "to say",
+            "söylemek"
+        ],
+        [
+            "denken",
+            "to think",
+            "düşünmek"
+        ],
+        [
+            "werken",
+            "to work",
+            "çalışmak"
+        ],
+        [
+            "wachten",
+            "to wait",
+            "beklemek"
+        ],
+        [
+            "groot",
+            "big",
+            "büyük"
+        ],
+        [
+            "klein",
+            "small",
+            "küçük"
+        ],
+        [
+            "lekker",
+            "tasty",
+            "lezzetli"
+        ],
+        [
+            "vies",
+            "dirty, disgusting",
+            "iğrenç"
+        ],
+        [
+            "schoon",
+            "clean",
+            "temiz"
+        ],
+        [
+            "mooi",
+            "beautiful",
+            "güzel"
+        ],
+        [
+            "de tulp",
+            "the tulip",
+            "lale"
+        ],
+        [
+            "lelijk",
+            "ugly",
+            "çirkin"
+        ],
+        [
+            "interessant",
+            "interesting",
+            "ilginç, enteresan"
+        ],
+        [
+            "saai",
+            "boring",
+            "sıkıcı"
+        ],
+        [
+            "arm",
+            "poor",
+            "fakir, zavallı"
+        ],
+        [
+            "rijk",
+            "rich",
+            "zengin"
+        ],
+        [
+            "donker",
+            "dark",
+            "karanlık"
+        ],
+        [
+            "licht",
+            "light",
+            "aydınlık"
+        ],
+        [
+            "zwaar",
+            "heavy",
+            "ağır"
+        ],
+        [
+            "hard",
+            "hard, fast",
+            "sert, hızlı"
+        ],
+        [
+            "zacht",
+            "soft, slow",
+            "yumuşak, yavaş"
+        ],
+        [
+            "snel",
+            "fast",
+            "hızlı"
+        ],
+        [
+            "lief",
+            "lovely, sweet",
+            "tatlı, sevimli"
+        ],
+        [
+            "stout",
+            "naughty",
+            "yaramaz"
+        ],
+        [
+            "koud",
+            "cold",
+            "soğuk"
+        ],
+        [
+            "warm",
+            "warm",
+            "ılık"
+        ],
+        [
+            "duur",
+            "expensive",
+            "pahalı"
+        ],
+        [
+            "goedkoop",
+            "cheap",
+            "ucuz"
+        ],
+        [
+            "hoog",
+            "high, tall",
+            "yüksek, uzun"
+        ],
+        [
+            "laag",
+            "low",
+            "alçak, kısa"
+        ],
+        [
+            "week",
+            "week",
+            "hafta"
+        ],
+        [
+            "de dagen van de week",
+            "the days of the week",
+            "haftanın günleri"
+        ],
+        [
+            "welke dag (van de week)?",
+            "which day of the week",
+            "haftanın hangi günü?"
+        ],
+        [
+            "maandag",
+            "Monday",
+            "pazartesi"
+        ],
+        [
+            "dinsdag",
+            "tuesday",
+            "salı"
+        ],
+        [
+            "woensdag",
+            "Wednesday",
+            "çarşamba"
+        ],
+        [
+            "donderdag",
+            "Thursday",
+            "perşembe"
+        ],
+        [
+            "vrijdag",
+            "Friday",
+            "cuma"
+        ],
+        [
+            "zaterdag",
+            "Saturday",
+            "cumartesi"
+        ],
+        [
+            "zondag",
+            "Sunday",
+            "pazar"
+        ],
+        [
+            "de maand",
+            "the month",
+            "ay(takvim)"
+        ],
+        [
+            "de maan",
+            "the moon",
+            "ay(uydu)"
+        ],
+        [
+            "januari",
+            "January",
+            "ocak"
+        ],
+        [
+            "februari",
+            "February",
+            "şubat"
+        ],
+        [
+            "maart",
+            "march",
+            "mart"
+        ],
+        [
+            "april",
+            "April",
+            "nisan"
+        ],
+        [
+            "mei",
+            "may",
+            "mayıs"
+        ],
+        [
+            "juni",
+            "June",
+            "haziran"
+        ],
+        [
+            "juli",
+            "July",
+            "temmuz"
+        ],
+        [
+            "augustus",
+            "august",
+            "ağustos"
+        ],
+        [
+            "september",
+            "September",
+            "eylül"
+        ],
+        [
+            "oktober",
+            "October",
+            "ekim"
+        ],
+        [
+            "november",
+            "November",
+            "kasım"
+        ],
+        [
+            "december",
+            "December",
+            "aralık"
+        ],
+        [
+            "winter",
+            "winter",
+            "kış"
+        ],
+        [
+            "lente",
+            "spring",
+            "ilkbahar"
+        ],
+        [
+            "zomer",
+            "summer",
+            "yaz"
+        ],
+        [
+            "herfst",
+            "autumn",
+            "sonbahar"
+        ],
+        [
+            "met",
+            "with",
+            "birlikte, ile"
+        ],
+        [
+            "van",
+            "from",
+            "-dan, -den"
+        ],
+        [
+            "naar",
+            "to",
+            "oraya doğru"
+        ],
+        [
+            "in",
+            "in",
+            "içinde"
+        ],
+        [
+            "voor",
+            "in front of",
+            "önünde"
+        ],
+        [
+            "achter",
+            "behind",
+            "arkasında"
+        ],
+        [
+            "naast",
+            "next to",
+            "yanında"
+        ],
+        [
+            "beneden",
+            "down, downstairs",
+            "alt, alt kat"
+        ],
+        [
+            "boven",
+            "above, up, upstairs",
+            "üst ,üst kat"
+        ],
+        [
+            "onder",
+            "below",
+            "altında"
+        ],
+        [
+            "op",
+            "at, on top",
+            "-da, -de, üstünde"
+        ],
+        [
+            "tussen",
+            "between",
+            "arasında"
+        ],
+        [
+            "het midden",
+            "the middle",
+            "orta"
+        ],
+        [
+            "over",
+            "about",
+            "hakkında"
+        ],
+        [
+            "over",
+            "over",
+            "üzerinde"
+        ],
+        [
+            "bij",
+            "at, near",
+            "yakınında"
+        ],
+        [
+            "binnen",
+            "inside",
+            "içinde"
+        ],
+        [
+            "buiten",
+            "outside",
+            "dışında"
+        ],
+        [
+            "tegen",
+            "against",
+            "karşısında"
+        ],
+        [
+            "rond",
+            "around",
+            "etrafında"
+        ],
+        [
+            "sinds",
+            "since",
+            "-den beri"
+        ],
+        [
+            "zonder",
+            "without",
+            "onsuz, olmadan"
+        ],
+        [
+            "voor",
+            "before",
+            "önce"
+        ],
+        [
+            "na",
+            "after",
+            "sonra"
+        ],
+        [
+            "om",
+            "at",
+            "?"
+        ],
+        [
+            "hoe laat?",
+            "what time?",
+            "ne zaman"
+        ],
+        [
+            "hoe laat is het?",
+            "what time is it?",
+            "saat kaç"
+        ],
+        [
+            "de klok",
+            "the clock",
+            "saat(eşya)"
+        ],
+        [
+            "het uur",
+            "the hour",
+            "saat(zaman)"
+        ],
+        [
+            "twee uur",
+            "two o'clock",
+            "saat iki"
+        ],
+        [
+            "half vier",
+            "half past three",
+            "saat üç buçuk"
+        ],
+        [
+            "half een",
+            "half past twelve"
+        ],
+        [
+            "het kwartier",
+            "the quarter"
+        ],
+        [
+            "kwart over drie",
+            "quarter past three"
+        ],
+        [
+            "kwart voor zeven",
+            "quarter to seven"
+        ],
+        [
+            "de minuut",
+            "the minute"
+        ],
+        [
+            "tien over zes",
+            "ten past six"
+        ],
+        [
+            "vijf voor acht",
+            "five to eight"
+        ],
+        [
+            "vijf voor half zeven",
+            "twenty five past six"
+        ],
+        [
+            "vijf over half vier",
+            "twenty five to four"
+        ],
+        [
+            "twintig voor vijf",
+            "twenty to five"
+        ],
+        [
+            "hoe lang?",
+            "how long?"
+        ],
+        [
+            "het duurt drie uur",
+            "it takes three hours"
+        ],
+        [
+            "van twee uur tot vijf uur",
+            "from two till five o'clock"
+        ],
+        [
+            "de nacht",
+            "the night"
+        ],
+        [
+            "'s nachts",
+            "at night"
+        ],
+        [
+            "de ochtend, de morgen",
+            "the morning"
+        ],
+        [
+            "'s ochtends / 's morgens",
+            "in the morning"
+        ],
+        [
+            "de middag",
+            "the afternoon"
+        ],
+        [
+            "'s middags",
+            "in the afternoon"
+        ],
+        [
+            "de avond",
+            "the evening"
+        ],
+        [
+            "'s avonds",
+            "in the evening"
+        ],
+        [
+            "kwart voor zeven 's ochtends",
+            "quarter to seven am"
+        ],
+        [
+            "middernacht",
+            "midnight"
+        ],
+        [
+            "twaalf uur 's middags",
+            "noon"
+        ],
+        [
+            "vrije tijd",
+            "leisure time"
+        ],
+        [
+            "de hobby",
+            "the hobby"
+        ],
+        [
+            "reizen",
+            "to travel"
+        ],
+        [
+            "de vakantie",
+            "the holiday"
+        ],
+        [
+            "kamperen",
+            "to camp out"
+        ],
+        [
+            "het strand",
+            "the beach"
+        ],
+        [
+            "zonnen",
+            "to sunbathe"
+        ],
+        [
+            "het pretpark",
+            "the theme park"
+        ],
+        [
+            "tuinieren",
+            "gardening"
+        ],
+        [
+            "de taal",
+            "the language"
+        ],
+        [
+            "een taal leren",
+            "to learn a language"
+        ],
+        [
+            "sporten",
+            "to exercise"
+        ],
+        [
+            "hardlopen",
+            "to run"
+        ],
+        [
+            "wandelen",
+            "to go for a walk"
+        ],
+        [
+            "tennissen",
+            "to play tennis"
+        ],
+        [
+            "hockeyen",
+            "to play hockey"
+        ],
+        [
+            "borrelen",
+            "to have a drink"
+        ],
+        [
+            "uit eten gaan",
+            "to go out for dinner"
+        ],
+        [
+            "uitgaan",
+            "to go out"
+        ],
+        [
+            "stappen",
+            "to go out (and drink)"
+        ],
+        [
+            "dronken zijn",
+            "being drunk"
+        ],
+        [
+            "koken",
+            "to cook"
+        ],
+        [
+            "kunst",
+            "art"
+        ],
+        [
+            "verjaardag",
+            "the birthday"
+        ],
+        [
+            "een verjaardag vieren",
+            "to celebrate a birthday"
+        ],
+        [
+            "hij is jarig",
+            "it's his birthday"
+        ],
+        [
+            "zingen",
+            "to sing"
+        ],
+        [
+            "dansen",
+            "to dance"
+        ],
+        [
+            "winkelen",
+            "to go shopping"
+        ],
+        [
+            "Amsterdam",
+            "Amsterdam"
+        ],
+        [
+            "het grachtenpand",
+            "the canal house"
+        ],
+        [
+            "de woonboot",
+            "the house boat"
+        ],
+        [
+            "wonen",
+            "to live"
+        ],
+        [
+            "het paleis",
+            "the palace"
+        ],
+        [
+            "pont",
+            "the ferry"
+        ],
+        [
+            "de rondvaart",
+            "the canal cruise"
+        ],
+        [
+            "het museum",
+            "the museum"
+        ],
+        [
+            "het concert",
+            "the concert"
+        ],
+        [
+            "het gebouw",
+            "the building"
+        ],
+        [
+            "het concertgebouw",
+            "the Concertgebouw"
+        ],
+        [
+            "het plein",
+            "the square"
+        ],
+        [
+            "het fietspad",
+            "the bicycle track"
+        ],
+        [
+            "de brug",
+            "the bridge"
+        ],
+        [
+            "het eiland",
+            "the island"
+        ],
+        [
+            "de ring",
+            "the ring, the ring road"
+        ],
+        [
+            "de coffeeshop",
+            "bar where soft drugs is sold"
+        ],
+        [
+            "het stadion",
+            "the stadium"
+        ],
+        [
+            "het hoofdkantoor",
+            "the head office"
+        ],
+        [
+            "de wallen",
+            "the red light district"
+        ],
+        [
+            "de hoer",
+            "the prostitute"
+        ],
+        [
+            "het park",
+            "the park"
+        ],
+        [
+            "het bos",
+            "the forest"
+        ],
+        [
+            "de woning",
+            "the house"
+        ],
+        [
+            "de deur",
+            "the door"
+        ],
+        [
+            "het raam",
+            "the window"
+        ],
+        [
+            "de stoel",
+            "the chair"
+        ],
+        [
+            "de kruk",
+            "the stool"
+        ],
+        [
+            "de tafel",
+            "the table"
+        ],
+        [
+            "de lamp",
+            "the lamp"
+        ],
+        [
+            "de televisie",
+            "the television"
+        ],
+        [
+            "de kast",
+            "the closet"
+        ],
+        [
+            "de wc",
+            "the toilet"
+        ],
+        [
+            "de keuken",
+            "the kitchen"
+        ],
+        [
+            "het fornuis",
+            "the cooker"
+        ],
+        [
+            "de koelkast",
+            "the fridge"
+        ],
+        [
+            "de kamer",
+            "the room"
+        ],
+        [
+            "de woonkamer",
+            "the living room"
+        ],
+        [
+            "de bank",
+            "the couch"
+        ],
+        [
+            "de slaapkamer",
+            "the sleeping room"
+        ],
+        [
+            "het bed",
+            "the bed"
+        ],
+        [
+            "de badkamer",
+            "the bathroom"
+        ],
+        [
+            "de douche",
+            "the shower"
+        ],
+        [
+            "het bad",
+            "the bath tub"
+        ],
+        [
+            "de bijkeuken",
+            "the scullery"
+        ],
+        [
+            "de garage",
+            "the garage"
+        ],
+        [
+            "de tuin",
+            "the garden"
+        ],
+        [
+            "de zolder",
+            "the attic"
+        ],
+        [
+            "het lichaam",
+            "the body"
+        ],
+        [
+            "het lijf",
+            "the body"
+        ],
+        [
+            "het hoofd",
+            "the head"
+        ],
+        [
+            "de kop",
+            "the head"
+        ],
+        [
+            "de mond",
+            "the mouth"
+        ],
+        [
+            "het oor",
+            "the ear"
+        ],
+        [
+            "het oog",
+            "the eye"
+        ],
+        [
+            "de bril",
+            "the glasses"
+        ],
+        [
+            "de zonnebril",
+            "the sunglasses"
+        ],
+        [
+            "de neus",
+            "the nose"
+        ],
+        [
+            "het haar",
+            "the hair"
+        ],
+        [
+            "de arm",
+            "the arm"
+        ],
+        [
+            "de elleboog",
+            "the elbow"
+        ],
+        [
+            "de hand",
+            "the hand"
+        ],
+        [
+            "de vinger",
+            "the finger"
+        ],
+        [
+            "het been",
+            "the leg"
+        ],
+        [
+            "de knie",
+            "the knee"
+        ],
+        [
+            "de voet",
+            "the foot"
+        ],
+        [
+            "de teen",
+            "the toe"
+        ],
+        [
+            "de rug",
+            "the spine"
+        ],
+        [
+            "de buik",
+            "the belly, the stomach"
+        ],
+        [
+            "de schouder",
+            "the shoulder"
+        ],
+        [
+            "de kont",
+            "the ass"
+        ],
+        [
+            "de borst",
+            "the chest, the breast"
+        ],
+        [
+            "de baard",
+            "the beard"
+        ],
+        [
+            "de snor",
+            "the moustache"
+        ],
+        [
+            "het hart",
+            "the heart"
+        ],
+        [
+            "de kleren",
+            "the clothes"
+        ],
+        [
+            "de kleding",
+            "the clothing"
+        ],
+        [
+            "de kledingwinkel",
+            "the clothes shop"
+        ],
+        [
+            "de broek",
+            "the pants"
+        ],
+        [
+            "de spijkerbroek",
+            "the jeans"
+        ],
+        [
+            "de trui",
+            "the sweater"
+        ],
+        [
+            "de jas",
+            "the coat"
+        ],
+        [
+            "de rok",
+            "the skirt"
+        ],
+        [
+            "de jurk",
+            "the robe"
+        ],
+        [
+            "de sok",
+            "the sock (short)"
+        ],
+        [
+            "de kous",
+            "the sock (long)"
+        ],
+        [
+            "de schoen",
+            "the shoe"
+        ],
+        [
+            "de klomp",
+            "the wooden shoe"
+        ],
+        [
+            "de riem",
+            "the belt"
+        ],
+        [
+            "het T-shirt",
+            "the T-shirt"
+        ],
+        [
+            "het (onder)hemd",
+            "the undershirt"
+        ],
+        [
+            "het overhemd",
+            "the shirt"
+        ],
+        [
+            "de blouse",
+            "the blouse, the shirt"
+        ],
+        [
+            "het pak",
+            "the suit"
+        ],
+        [
+            "het, de colbert",
+            "the suit jacket"
+        ],
+        [
+            "de stropdas",
+            "the tie"
+        ],
+        [
+            "de strik",
+            "the bow"
+        ],
+        [
+            "de pyjama",
+            "the pyjamas"
+        ],
+        [
+            "de onderbroek",
+            "the undershorts"
+        ],
+        [
+            "de bh",
+            "the bra"
+        ],
+        [
+            "de hoed",
+            "the hat"
+        ],
+        [
+            "de das",
+            "the scarf"
+        ],
+        [
+            "doen",
+            "to do"
+        ],
+        [
+            "beginnen",
+            "to begin"
+        ],
+        [
+            "geloven",
+            "to believe"
+        ],
+        [
+            "halen",
+            "to pick up"
+        ],
+        [
+            "lenen",
+            "to borrow"
+        ],
+        [
+            "bellen",
+            "to call"
+        ],
+        [
+            "kunnen",
+            "to can"
+        ],
+        [
+            "sluiten",
+            "to close"
+        ],
+        [
+            "snijden",
+            "to cut"
+        ],
+        [
+            "beslissen",
+            "to decide"
+        ],
+        [
+            "vallen",
+            "to fall"
+        ],
+        [
+            "voelen",
+            "to feel, to touch"
+        ],
+        [
+            "volgen",
+            "to follow"
+        ],
+        [
+            "gebeuren",
+            "to happen"
+        ],
+        [
+            "iets",
+            "something"
+        ],
+        [
+            "helpen",
+            "to help"
+        ],
+        [
+            "houden",
+            "to hold, to keep"
+        ],
+        [
+            "houden van",
+            "to love"
+        ],
+        [
+            "weten",
+            "to know"
+        ],
+        [
+            "kennen",
+            "to know"
+        ],
+        [
+            "leuk vinden",
+            "to like"
+        ],
+        [
+            "laten",
+            "to leave"
+        ],
+        [
+            "verliezen",
+            "to lose"
+        ],
+        [
+            "winnen",
+            "to win"
+        ],
+        [
+            "maken",
+            "to make"
+        ],
+        [
+            "solliciteren",
+            "to apply for"
+        ],
+        [
+            "de sollicitatie",
+            "the application"
+        ],
+        [
+            "de vacature",
+            "the vacancy"
+        ],
+        [
+            "de advertentie",
+            "the advertisement"
+        ],
+        [
+            "het werk",
+            "the work"
+        ],
+        [
+            "de baan",
+            "the job"
+        ],
+        [
+            "veranderen",
+            "to change"
+        ],
+        [
+            "de brief",
+            "the letter"
+        ],
+        [
+            "de sollicitatiebrief",
+            "the application letter"
+        ],
+        [
+            "het cv (curriculum vitae)",
+            "the resume"
+        ],
+        [
+            "de opleiding",
+            "the education"
+        ],
+        [
+            "de ervaring",
+            "the experience"
+        ],
+        [
+            "het gesprek",
+            "the conversation, the interview"
+        ],
+        [
+            "het sollicitatiegesprek",
+            "the job interview"
+        ],
+        [
+            "het bedrijf",
+            "the company"
+        ],
+        [
+            "de zaak",
+            "the company"
+        ],
+        [
+            "het salaris",
+            "the salary"
+        ],
+        [
+            "bruto",
+            "gross"
+        ],
+        [
+            "netto",
+            "net"
+        ],
+        [
+            "de belasting",
+            "the tax"
+        ],
+        [
+            "het vakantiegeld",
+            "the vacation bonus"
+        ],
+        [
+            "de auto van de zaak",
+            "the company car"
+        ],
+        [
+            "het pensioen",
+            "the pension"
+        ],
+        [
+            "de reiskosten",
+            "the travel expenses"
+        ],
+        [
+            "de vergoeding",
+            "the compensation"
+        ],
+        [
+            "de reiskostenvergoeding",
+            "the compensation for travel expenses"
+        ],
+        [
+            "de collega",
+            "the colleague"
+        ],
+        [
+            "aannemen",
+            "to hire"
+        ],
+        [
+            "ontslaan",
+            "to fire"
+        ],
+        [
+            "de vader",
+            "the father"
+        ],
+        [
+            "de moeder",
+            "the mother"
+        ],
+        [
+            "mama",
+            "mom"
+        ],
+        [
+            "de broer",
+            "the brother"
+        ],
+        [
+            "de zus",
+            "the sister"
+        ],
+        [
+            "de opa",
+            "the grandfather"
+        ],
+        [
+            "de oma",
+            "the grandmother"
+        ],
+        [
+            "de tante",
+            "the aunt"
+        ],
+        [
+            "de oom",
+            "the uncle"
+        ],
+        [
+            "de neef",
+            "the cousin, the nephew"
+        ],
+        [
+            "de nicht",
+            "the cousin, the niece"
+        ],
+        [
+            "het kind",
+            "the child"
+        ],
+        [
+            "het kleinkind",
+            "the grandchild"
+        ],
+        [
+            "de vriend",
+            "the (boy) friend"
+        ],
+        [
+            "de vriendin",
+            "the (girl) friend"
+        ],
+        [
+            "de kennis",
+            "the acquaintance"
+        ],
+        [
+            "de bekende",
+            "the acquaintance"
+        ],
+        [
+            "de klasgenoot",
+            "the classmate"
+        ],
+        [
+            "de verkering",
+            "the relationship (love)"
+        ],
+        [
+            "verliefd",
+            "in love"
+        ],
+        [
+            "verloofd",
+            "to be engaged"
+        ],
+        [
+            "trouwen",
+            "to marry"
+        ],
+        [
+            "scheiden",
+            "to divorce"
+        ],
+        [
+            "gescheiden zijn",
+            "to be divorced"
+        ],
+        [
+            "want",
+            "because"
+        ],
+        [
+            "doei",
+            "bye"
+        ],
+        [
+            "weten",
+            "to know"
+        ],
+        [
+            "zijn",
+            "to be"
+        ],
+        [
+            "roken",
+            "to smoke"
+        ],
+        [
+            "waarom",
+            "why"
+        ],
+        [
+            "dronken zijn",
+            "being drunk"
+        ],
+        [
+            "het fietspad",
+            "the bicycle track"
+        ],
+        [
+            "dan",
+            "then"
+        ],
+        [
+            "ze",
+            "she"
+        ],
+        [
+            "blij",
+            "happy"
+        ],
+        [
+            "'s middags",
+            "in the afternoon"
+        ],
+        [
+            "interessant",
+            "interesting"
+        ],
+        [
+            "de bh",
+            "the bra"
+        ],
+        [
+            "snijden",
+            "to cut"
+        ],
+        [
+            "leuk",
+            "funny"
+        ],
+        [
+            "de sollicitatie",
+            "the application"
+        ],
+        [
+            "de baas",
+            "the boss"
+        ],
+        [
+            "de halte",
+            "the stopping place"
+        ],
+        [
+            "goed",
+            "good"
+        ],
+        [
+            "de kleding",
+            "the clothing"
+        ],
+        [
+            "tot ziens",
+            "see you"
+        ],
+        [
+            "hoeveel",
+            "how much"
+        ],
+        [
+            "het uur",
+            "the hour"
+        ],
+        [
+            "de avond",
+            "the evening"
+        ],
+        [
+            "lezen",
+            "to read"
+        ],
+        [
+            "de vriendin",
+            "the (girl) friend"
+        ],
+        [
+            "de wijn",
+            "the wine"
+        ],
+        [
+            "woensdag",
+            "Wednesday"
+        ],
+        [
+            "mei",
+            "may"
+        ],
+        [
+            "de vacature",
+            "the vacancy"
+        ],
+        [
+            "de keuken",
+            "the kitchen"
+        ],
+        [
+            "mooi",
+            "pretty"
+        ],
+        [
+            "de buik",
+            "the belly, the stomach"
+        ],
+        [
+            "schoon",
+            "clean"
+        ],
+        [
+            "de kaas",
+            "the cheese"
+        ],
+        [
+            "de klomp",
+            "the wooden shoe"
+        ],
+        [
+            "drop",
+            "liquorice"
+        ],
+        [
+            "lelijk",
+            "ugly"
+        ],
+        [
+            "niet",
+            "not"
+        ],
+        [
+            "het gesprek",
+            "the conversation, the interview"
+        ],
+        [
+            "een",
+            "a"
+        ],
+        [
+            "onder",
+            "below"
+        ],
+        [
+            "acht",
+            "eight"
+        ],
+        [
+            "wij",
+            "we"
+        ],
+        [
+            "veertien",
+            "fourteen"
+        ],
+        [
+            "de klok",
+            "the clock"
+        ],
+        [
+            "het vliegtuig",
+            "the airplane"
+        ],
+        [
+            "de oom",
+            "the uncle"
+        ],
+        [
+            "de vriend",
+            "the (boy) friend"
+        ],
+        [
+            "de man",
+            "the man"
+        ],
+        [
+            "over",
+            "about"
+        ],
+        [
+            "Amsterdam",
+            "Amsterdam"
+        ],
+        [
+            "sinds",
+            "since"
+        ],
+        [
+            "het been",
+            "the leg"
+        ],
+        [
+            "waar",
+            "where"
+        ],
+        [
+            "week",
+            "week"
+        ],
+        [
+            "behalve",
+            "except"
+        ],
+        [
+            "het salaris",
+            "the salary"
+        ],
+        [
+            "de melk",
+            "the milk"
+        ],
+        [
+            "de school",
+            "the school"
+        ],
+        [
+            "de zus",
+            "the sister"
+        ],
+        [
+            "na",
+            "after"
+        ],
+        [
+            "het kind",
+            "the child"
+        ],
+        [
+            "wanneer",
+            "when"
+        ],
+        [
+            "het kantoor",
+            "the office"
+        ],
+        [
+            "het oor",
+            "the ear"
+        ],
+        [
+            "de tram",
+            "the tram"
+        ],
+        [
+            "kennen",
+            "to know"
+        ],
+        [
+            "kamperen",
+            "to camp out"
+        ],
+        [
+            "negen",
+            "nine"
+        ],
+        [
+            "vijftien",
+            "fifteen"
+        ],
+        [
+            "de groente",
+            "the vegetables"
+        ],
+        [
+            "en",
+            "and"
+        ],
+        [
+            "twintig voor vijf",
+            "twenty to five"
+        ],
+        [
+            "de politieman",
+            "the police officer"
+        ],
+        [
+            "aannemen",
+            "to hire"
+        ],
+        [
+            "het cv (curriculum vitae)",
+            "the resume"
+        ],
+        [
+            "de advertentie",
+            "the advertisement"
+        ],
+        [
+            "naast",
+            "next to"
+        ],
+        [
+            "boven",
+            "above, up, upstairs"
+        ],
+        [
+            "de brief",
+            "the letter"
+        ],
+        [
+            "gebeuren",
+            "to happen"
+        ],
+        [
+            "het bed",
+            "the bed"
+        ],
+        [
+            "goedemorgen",
+            "good morning"
+        ],
+        [
+            "licht",
+            "light"
+        ],
+        [
+            "oud",
+            "old"
+        ],
+        [
+            "de kruk",
+            "the stool"
+        ],
+        [
+            "vrijdag",
+            "Friday"
+        ],
+        [
+            "ja",
+            "yes"
+        ],
+        [
+            "de hobby",
+            "the hobby"
+        ],
+        [
+            "om",
+            "at"
+        ],
+        [
+            "met",
+            "with"
+        ],
+        [
+            "de nacht",
+            "the night"
+        ],
+        [
+            "de broer",
+            "the brother"
+        ],
+        [
+            "winter",
+            "winter"
+        ],
+        [
+            "het bos",
+            "the forest"
+        ],
+        [
+            "de deur",
+            "the door"
+        ],
+        [
+            "de apotheek",
+            "the pharmacy"
+        ],
+        [
+            "dat",
+            "that"
+        ],
+        [
+            "het hart",
+            "the heart"
+        ],
+        [
+            "de broek",
+            "the pants"
+        ],
+        [
+            "de collega",
+            "the colleague"
+        ],
+        [
+            "de kapper",
+            "the hairdresser"
+        ],
+        [
+            "eten & drinken",
+            "food & drinks"
+        ],
+        [
+            "de hoer",
+            "the prostitute"
+        ],
+        [
+            "koken",
+            "to cook"
+        ],
+        [
+            "de reiskosten",
+            "the travel expenses"
+        ],
+        [
+            "de baan",
+            "the job"
+        ],
+        [
+            "het water",
+            "the water"
+        ],
+        [
+            "hard",
+            "hard, fast"
+        ],
+        [
+            "de straat",
+            "the street"
+        ],
+        [
+            "hoe",
+            "how"
+        ],
+        [
+            "het ziekenhuis",
+            "the hospital"
+        ],
+        [
+            "de agent",
+            "the police officer"
+        ],
+        [
+            "het hoofd",
+            "the head"
+        ],
+        [
+            "doen",
+            "to do"
+        ],
+        [
+            "de kamer",
+            "the room"
+        ],
+        [
+            "de fiets",
+            "the bike"
+        ],
+        [
+            "de advocaat",
+            "the lawyer"
+        ],
+        [
+            "vies",
+            "dirty, disgusting"
+        ],
+        [
+            "de wc",
+            "the toilet"
+        ],
+        [
+            "november",
+            "November"
+        ],
+        [
+            "de kroket",
+            "Dutch fried ragout bar"
+        ],
+        [
+            "warm",
+            "warm"
+        ],
+        [
+            "lenen",
+            "to borrow"
+        ],
+        [
+            "het fruit",
+            "the fruits"
+        ],
+        [
+            "de vakantie",
+            "the holiday"
+        ],
+        [
+            "ik heet",
+            "my name is"
+        ],
+        [
+            "de moeder",
+            "the mother"
+        ],
+        [
+            "vallen",
+            "to fall"
+        ],
+        [
+            "werken",
+            "to work"
+        ],
+        [
+            "houden",
+            "to hold, to keep"
+        ],
+        [
+            "de haven",
+            "the port"
+        ],
+        [
+            "dit",
+            "this"
+        ],
+        [
+            "de aardappel",
+            "the potato"
+        ],
+        [
+            "gaan",
+            "to go"
+        ],
+        [
+            "mama",
+            "mom"
+        ],
+        [
+            "het sollicitatiegesprek",
+            "the job interview"
+        ],
+        [
+            "de supermarkt",
+            "the supermarket"
+        ],
+        [
+            "de auto",
+            "the car"
+        ],
+        [
+            "de teen",
+            "the toe"
+        ],
+        [
+            "dag",
+            "day"
+        ],
+        [
+            "de snor",
+            "the moustache"
+        ],
+        [
+            "de riem",
+            "the belt"
+        ],
+        [
+            "half vier",
+            "half past three"
+        ],
+        [
+            "hoe lang?",
+            "how long?"
+        ],
+        [
+            "het plein",
+            "the square"
+        ],
+        [
+            "de bibliotheek",
+            "the library"
+        ],
+        [
+            "bruto",
+            "gross"
+        ],
+        [
+            "de verkoper",
+            "the salesman"
+        ],
+        [
+            "bellen",
+            "to call"
+        ],
+        [
+            "donderdag",
+            "Thursday"
+        ],
+        [
+            "deze",
+            "these, this"
+        ],
+        [
+            "de jas",
+            "the coat"
+        ],
+        [
+            "a.u.b.",
+            "please"
+        ],
+        [
+            "de boer",
+            "the farmer"
+        ],
+        [
+            "het concert",
+            "the concert"
+        ],
+        [
+            "halen",
+            "to pick up"
+        ],
+        [
+            "de sporthal",
+            "the sports hall"
+        ],
+        [
+            "drie",
+            "three"
+        ],
+        [
+            "goedendag",
+            "good day !"
+        ],
+        [
+            "de blouse",
+            "the blouse, the shirt"
+        ],
+        [
+            "rechts",
+            "right"
+        ],
+        [
+            "denken",
+            "to think"
+        ],
+        [
+            "het eiland",
+            "the island"
+        ],
+        [
+            "lekker",
+            "tasty"
+        ],
+        [
+            "lente",
+            "spring"
+        ],
+        [
+            "wonen",
+            "to live"
+        ],
+        [
+            "hij",
+            "he"
+        ],
+        [
+            "het station",
+            "the railway station"
+        ],
+        [
+            "september",
+            "September"
+        ],
+        [
+            "zes",
+            "six"
+        ],
+        [
+            "augustus",
+            "august"
+        ],
+        [
+            "die",
+            "that, those"
+        ],
+        [
+            "gescheiden zijn",
+            "to be divorced"
+        ],
+        [
+            "welke",
+            "which"
+        ],
+        [
+            "de kous",
+            "the sock (long)"
+        ],
+        [
+            "het bier",
+            "the beer"
+        ],
+        [
+            "eenentwintig",
+            "twenty one"
+        ],
+        [
+            "de leerling",
+            "the scholar"
+        ],
+        [
+            "twaalf",
+            "twelve"
+        ],
+        [
+            "zomer",
+            "summer"
+        ],
+        [
+            "vijf",
+            "five"
+        ],
+        [
+            "tien over zes",
+            "ten past six"
+        ],
+        [
+            "kunnen",
+            "to can"
+        ],
+        [
+            "de stropdas",
+            "the tie"
+        ],
+        [
+            "het haar",
+            "the hair"
+        ],
+        [
+            "hoog",
+            "high, tall"
+        ],
+        [
+            "de neus",
+            "the nose"
+        ],
+        [
+            "de brug",
+            "the bridge"
+        ],
+        [
+            "dertien",
+            "thirteen"
+        ],
+        [
+            "de tand",
+            "the tooth"
+        ],
+        [
+            "half een",
+            "half past twelve"
+        ],
+        [
+            "zij",
+            "she"
+        ],
+        [
+            "goedenavond",
+            "good evening"
+        ],
+        [
+            "de verkering",
+            "the relationship (love)"
+        ],
+        [
+            "weten",
+            "to know"
+        ],
+        [
+            "zacht",
+            "soft, slow"
+        ],
+        [
+            "de dokter",
+            "the doctor"
+        ],
+        [
+            "vergeten",
+            "to forget"
+        ],
+        [
+            "terwijl",
+            "while"
+        ],
+        [
+            "de trein",
+            "the train"
+        ],
+        [
+            "de arm",
+            "the arm"
+        ],
+        [
+            "wachten",
+            "to wait"
+        ],
+        [
+            "de garage",
+            "the garage"
+        ],
+        [
+            "de tuin",
+            "the garden"
+        ],
+        [
+            "tweehonderd",
+            "two hundred"
+        ],
+        [
+            "ik ben",
+            "I am"
+        ],
+        [
+            "de metro",
+            "the metro"
+        ],
+        [
+            "de maan",
+            "the moon"
+        ],
+        [
+            "het politiebureau",
+            "the police station"
+        ],
+        [
+            "de borst",
+            "the chest, the breast"
+        ],
+        [
+            "de jurk",
+            "the robe"
+        ],
+        [
+            "de tulp",
+            "the tulip"
+        ],
+        [
+            "naar",
+            "to"
+        ],
+        [
+            "de boterham",
+            "the slice of bread"
+        ],
+        [
+            "de rondvaart",
+            "the canal cruise"
+        ],
+        [
+            "kwart over drie",
+            "quarter past three"
+        ],
+        [
+            "over",
+            "over"
+        ],
+        [
+            "de nicht",
+            "the cousin, the niece"
+        ],
+        [
+            "de voetballer",
+            "the football player"
+        ],
+        [
+            "de sok",
+            "the sock (short)"
+        ],
+        [
+            "de maand",
+            "the month"
+        ],
+        [
+            "helpen",
+            "to help"
+        ],
+        [
+            "de kont",
+            "the ass"
+        ],
+        [
+            "jong",
+            "young"
+        ],
+        [
+            "de voet",
+            "the foot"
+        ],
+        [
+            "kijken",
+            "to look"
+        ],
+        [
+            "de ring",
+            "the ring, the ring road"
+        ],
+        [
+            "de snelweg",
+            "the highway"
+        ],
+        [
+            "het grachtenpand",
+            "the canal house"
+        ],
+        [
+            "winkelen",
+            "to go shopping"
+        ],
+        [
+            "de bijkeuken",
+            "the scullery"
+        ],
+        [
+            "van",
+            "from"
+        ],
+        [
+            "schrijven",
+            "to write"
+        ],
+        [
+            "de aardappeleter",
+            "the potato-eater"
+        ],
+        [
+            "de koffie",
+            "the coffee"
+        ],
+        [
+            "vijf voor half zeven",
+            "twenty five past six"
+        ],
+        [
+            "eten",
+            "to eat"
+        ],
+        [
+            "het huis",
+            "the house"
+        ],
+        [
+            "het bedrijf",
+            "the company"
+        ],
+        [
+            "geloven",
+            "to believe"
+        ],
+        [
+            "het museum",
+            "the museum"
+        ],
+        [
+            "we",
+            "we"
+        ],
+        [
+            "bij",
+            "at, near"
+        ],
+        [
+            "beslissen",
+            "to decide"
+        ],
+        [
+            "de stroopwafel",
+            "the syrup waffle"
+        ],
+        [
+            "de baard",
+            "the beard"
+        ],
+        [
+            "koud",
+            "cold"
+        ],
+        [
+            "horen",
+            "to hear"
+        ],
+        [
+            "veertig",
+            "forty"
+        ],
+        [
+            "de middag",
+            "the afternoon"
+        ],
+        [
+            "het raam",
+            "the window"
+        ],
+        [
+            "of",
+            "or"
+        ],
+        [
+            "wandelen",
+            "to go for a walk"
+        ],
+        [
+            "twaalf uur 's middags",
+            "noon"
+        ],
+        [
+            "de zolder",
+            "the attic"
+        ],
+        [
+            "misschien",
+            "maybe"
+        ],
+        [
+            "papa",
+            "dad"
+        ],
+        [
+            "nul",
+            "zero"
+        ],
+        [
+            "snel",
+            "fast"
+        ],
+        [
+            "u",
+            "you"
+        ],
+        [
+            "sluiten",
+            "to close"
+        ],
+        [
+            "de bank",
+            "the couch"
+        ],
+        [
+            "het lichaam",
+            "the body"
+        ],
+        [
+            "slapen",
+            "to sleep"
+        ],
+        [
+            "de bekende",
+            "the acquaintance"
+        ],
+        [
+            "het oog",
+            "the eye"
+        ],
+        [
+            "de hagelslag",
+            "the chocolate sprinkles"
+        ],
+        [
+            "nee",
+            "no"
+        ],
+        [
+            "de boekhouder",
+            "the accountant"
+        ],
+        [
+            "het pensioen",
+            "the pension"
+        ],
+        [
+            "winnen",
+            "to win"
+        ],
+        [
+            "stout",
+            "naughty"
+        ],
+        [
+            "de wallen",
+            "the red light district"
+        ],
+        [
+            "in",
+            "in"
+        ],
+        [
+            "zaterdag",
+            "Saturday"
+        ],
+        [
+            "veranderen",
+            "to change"
+        ],
+        [
+            "het pak",
+            "the suit"
+        ],
+        [
+            "'s ochtends / 's morgens",
+            "in the morning"
+        ],
+        [
+            "de bloem",
+            "the flower"
+        ],
+        [
+            "de boot",
+            "the boat"
+        ],
+        [
+            "herfst",
+            "autumn"
+        ],
+        [
+            "vrije tijd",
+            "leisure time"
+        ],
+        [
+            "zwaar",
+            "heavy"
+        ],
+        [
+            "pont",
+            "the ferry"
+        ],
+        [
+            "beneden",
+            "down, downstairs"
+        ],
+        [
+            "zingen",
+            "to sing"
+        ],
+        [
+            "de klasgenoot",
+            "the classmate"
+        ],
+        [
+            "middernacht",
+            "midnight"
+        ],
+        [
+            "juli",
+            "July"
+        ],
+        [
+            "vijf over half vier",
+            "twenty five to four"
+        ],
+        [
+            "de schouder",
+            "the shoulder"
+        ],
+        [
+            "frietje met",
+            "French fries with mayonnaise"
+        ],
+        [
+            "laag",
+            "low"
+        ],
+        [
+            "de strik",
+            "the bow"
+        ],
+        [
+            "dank je wel",
+            "thank you"
+        ],
+        [
+            "de dagen van de week",
+            "the days of the week"
+        ],
+        [
+            "zij",
+            "they"
+        ],
+        [
+            "op",
+            "at, on top"
+        ],
+        [
+            "de coffeeshop",
+            "bar where soft drugs is sold"
+        ],
+        [
+            "achter",
+            "behind"
+        ],
+        [
+            "voor",
+            "in front of"
+        ],
+        [
+            "de weg",
+            "the road"
+        ],
+        [
+            "hier",
+            "here"
+        ],
+        [
+            "je",
+            "you"
+        ],
+        [
+            "de tafel",
+            "the table"
+        ],
+        [
+            "sporten",
+            "to exercise"
+        ],
+        [
+            "het duurt drie uur",
+            "it takes three hours"
+        ],
+        [
+            "volgen",
+            "to follow"
+        ],
+        [
+            "de kip",
+            "the chicken"
+        ],
+        [
+            "januari",
+            "January"
+        ],
+        [
+            "hoe laat is het?",
+            "what time is it?"
+        ],
+        [
+            "tot",
+            "until"
+        ],
+        [
+            "de trui",
+            "the sweater"
+        ],
+        [
+            "de opa",
+            "the grandfather"
+        ],
+        [
+            "honderd",
+            "hundred"
+        ],
+        [
+            "het fornuis",
+            "the cooker"
+        ],
+        [
+            "het werk",
+            "the work"
+        ],
+        [
+            "de kennis",
+            "the acquaintance"
+        ],
+        [
+            "de lamp",
+            "the lamp"
+        ],
+        [
+            "de slaapkamer",
+            "the sleeping room"
+        ],
+        [
+            "arm",
+            "poor"
+        ],
+        [
+            "mooi",
+            "beautiful"
+        ],
+        [
+            "hebben",
+            "to have"
+        ],
+        [
+            "de ober",
+            "the waiter"
+        ],
+        [
+            "de pyjama",
+            "the pyjamas"
+        ],
+        [
+            "de vinger",
+            "the finger"
+        ],
+        [
+            "de belasting",
+            "the tax"
+        ],
+        [
+            "ontslaan",
+            "to fire"
+        ],
+        [
+            "zien",
+            "to see"
+        ],
+        [
+            "elf",
+            "eleven"
+        ],
+        [
+            "het (onder)hemd",
+            "the undershirt"
+        ],
+        [
+            "verloofd",
+            "to be engaged"
+        ],
+        [
+            "tennissen",
+            "to play tennis"
+        ],
+        [
+            "twee uur",
+            "two o'clock"
+        ],
+        [
+            "de, het snoep",
+            "the sweets"
+        ],
+        [
+            "lopen",
+            "to walk"
+        ],
+        [
+            "de pindakaas",
+            "the peanut butter"
+        ],
+        [
+            "de pannenkoek",
+            "the pancake"
+        ],
+        [
+            "twintig",
+            "twenty"
+        ],
+        [
+            "het park",
+            "the park"
+        ],
+        [
+            "het pretpark",
+            "the theme park"
+        ],
+        [
+            "houden van",
+            "to love"
+        ],
+        [
+            "het brood",
+            "the bread"
+        ],
+        [
+            "borrelen",
+            "to have a drink"
+        ],
+        [
+            "reizen",
+            "to travel"
+        ],
+        [
+            "duur",
+            "expensive"
+        ],
+        [
+            "een",
+            "one"
+        ],
+        [
+            "dinsdag",
+            "Tuesday"
+        ],
+        [
+            "de minuut",
+            "the minute"
+        ],
+        [
+            "om tien uur",
+            "at ten o'clock"
+        ],
+        [
+            "maandag",
+            "Monday"
+        ],
+        [
+            "de reiskostenvergoeding",
+            "the compensation for travel expenses"
+        ],
+        [
+            "het hoofdkantoor",
+            "the head office"
+        ],
+        [
+            "de frikadel",
+            "Dutch meat sausage"
+        ],
+        [
+            "het, de colbert",
+            "the suit jacket"
+        ],
+        [
+            "de sollicitatiebrief",
+            "the application letter"
+        ],
+        [
+            "links",
+            "left"
+        ],
+        [
+            "tuinieren",
+            "gardening"
+        ],
+        [
+            "de thee",
+            "the tea"
+        ],
+        [
+            "december",
+            "December"
+        ],
+        [
+            "lief",
+            "lovely, sweet"
+        ],
+        [
+            "de hoed",
+            "the hat"
+        ],
+        [
+            "kunst",
+            "art"
+        ],
+        [
+            "trouwen",
+            "to marry"
+        ],
+        [
+            "ik",
+            "I"
+        ],
+        [
+            "miljoen",
+            "million"
+        ],
+        [
+            "hoi",
+            "hi"
+        ],
+        [
+            "de universiteit",
+            "the university"
+        ],
+        [
+            "zeggen",
+            "to say"
+        ],
+        [
+            "verjaardag",
+            "the birthday"
+        ],
+        [
+            "groot",
+            "big"
+        ],
+        [
+            "de premier",
+            "the prime minister"
+        ],
+        [
+            "de knie",
+            "the knee"
+        ],
+        [
+            "leuk vinden",
+            "to like"
+        ],
+        [
+            "binnen",
+            "inside"
+        ],
+        [
+            "klein",
+            "small"
+        ],
+        [
+            "verliefd",
+            "in love"
+        ],
+        [
+            "het vlees",
+            "the meat"
+        ],
+        [
+            "het meisje",
+            "the girl"
+        ],
+        [
+            "zondag",
+            "Sunday"
+        ],
+        [
+            "vijftig",
+            "fifty"
+        ],
+        [
+            "wel",
+            "(confirmative)"
+        ],
+        [
+            "ze",
+            "they"
+        ],
+        [
+            "de bus",
+            "the bus"
+        ],
+        [
+            "juni",
+            "June"
+        ],
+        [
+            "de vertegenwoordiger",
+            "the representative"
+        ],
+        [
+            "de televisie",
+            "the television"
+        ],
+        [
+            "omdat",
+            "because"
+        ],
+        [
+            "oktober",
+            "October"
+        ],
+        [
+            "kwart voor zeven",
+            "quarter to seven"
+        ],
+        [
+            "luisteren",
+            "to listen"
+        ],
+        [
+            "uit eten gaan",
+            "to go out for dinner"
+        ],
+        [
+            "het lijf",
+            "the body"
+        ],
+        [
+            "scheiden",
+            "to divorce"
+        ],
+        [
+            "voelen",
+            "to feel, to touch"
+        ],
+        [
+            "drinken",
+            "to drink"
+        ],
+        [
+            "de gracht",
+            "the canal"
+        ],
+        [
+            "een verjaardag vieren",
+            "to celebrate a birthday"
+        ],
+        [
+            "de tante",
+            "the aunt"
+        ],
+        [
+            "de zaak",
+            "the company"
+        ],
+        [
+            "iets",
+            "something"
+        ],
+        [
+            "hoe laat?",
+            "what time?"
+        ],
+        [
+            "donker",
+            "dark"
+        ],
+        [
+            "de bril",
+            "the glasses"
+        ],
+        [
+            "de kleren",
+            "the clothes"
+        ],
+        [
+            "het bad",
+            "the bath tub"
+        ],
+        [
+            "februari",
+            "February"
+        ],
+        [
+            "de oma",
+            "the grandmother"
+        ],
+        [
+            "vragen",
+            "to ask"
+        ],
+        [
+            "goedkoop",
+            "cheap"
+        ],
+        [
+            "maar",
+            "but"
+        ],
+        [
+            "de",
+            "the"
+        ],
+        [
+            "spreken",
+            "to speak"
+        ],
+        [
+            "maken",
+            "to make"
+        ],
+        [
+            "maart",
+            "march"
+        ],
+        [
+            "de woonkamer",
+            "the living room"
+        ],
+        [
+            "zeven",
+            "seven"
+        ],
+        [
+            "het overhemd",
+            "the shirt"
+        ],
+        [
+            "dertig",
+            "thirty"
+        ],
+        [
+            "van twee uur tot vijf uur",
+            "from two till five o'clock"
+        ],
+        [
+            "het paleis",
+            "the palace"
+        ],
+        [
+            "het zwembad",
+            "the swimming pool"
+        ],
+        [
+            "de spijkerbroek",
+            "the jeans"
+        ],
+        [
+            "de bakker",
+            "the baker"
+        ],
+        [
+            "jij",
+            "you"
+        ],
+        [
+            "'s nachts",
+            "at night"
+        ],
+        [
+            "rijden",
+            "to drive"
+        ],
+        [
+            "twee",
+            "two"
+        ],
+        [
+            "morgen",
+            "tomorrow"
+        ],
+        [
+            "de rug",
+            "the spine"
+        ],
+        [
+            "de onderbroek",
+            "the undershorts"
+        ],
+        [
+            "beginnen",
+            "to begin"
+        ],
+        [
+            "het vakantiegeld",
+            "the vacation bonus"
+        ],
+        [
+            "de hand",
+            "the hand"
+        ],
+        [
+            "het concertgebouw",
+            "the Concertgebouw"
+        ],
+        [
+            "de auto van de zaak",
+            "the company car"
+        ],
+        [
+            "antwoorden",
+            "to answer"
+        ],
+        [
+            "tien",
+            "ten"
+        ],
+        [
+            "het kwartier",
+            "the quarter"
+        ],
+        [
+            "het gebouw",
+            "the building"
+        ],
+        [
+            "de kledingwinkel",
+            "the clothes shop"
+        ],
+        [
+            "alsjeblieft",
+            "please"
+        ],
+        [
+            "de student",
+            "the student"
+        ],
+        [
+            "hardlopen",
+            "to run"
+        ],
+        [
+            "het",
+            "the"
+        ],
+        [
+            "jullie",
+            "you"
+        ],
+        [
+            "het strand",
+            "the beach"
+        ],
+        [
+            "de kop",
+            "the head"
+        ],
+        [
+            "de zonnebril",
+            "the sunglasses"
+        ],
+        [
+            "dansen",
+            "to dance"
+        ],
+        [
+            "het midden",
+            "the middle"
+        ],
+        [
+            "de slager",
+            "the butcher"
+        ],
+        [
+            "het stadion",
+            "the stadium"
+        ],
+        [
+            "een taal leren",
+            "to learn a language"
+        ],
+        [
+            "de elleboog",
+            "the elbow"
+        ],
+        [
+            "de mond",
+            "the mouth"
+        ],
+        [
+            "de koelkast",
+            "the fridge"
+        ],
+        [
+            "de badkamer",
+            "the bathroom"
+        ],
+        [
+            "verliezen",
+            "to lose"
+        ],
+        [
+            "de jongen",
+            "the boy"
+        ],
+        [
+            "alstublieft",
+            "here you are"
+        ],
+        [
+            "morgen",
+            "morning"
+        ],
+        [
+            "de kast",
+            "the closet"
+        ],
+        [
+            "de friet",
+            "the French fries"
+        ],
+        [
+            "hij is jarig",
+            "it's his birthday"
+        ],
+        [
+            "buiten",
+            "outside"
+        ],
+        [
+            "het T-shirt",
+            "the T-shirt"
+        ],
+        [
+            "daarom",
+            "that's why"
+        ],
+        [
+            "slecht",
+            "bad"
+        ],
+        [
+            "hockeyen",
+            "to play hockey"
+        ],
+        [
+            "de visser",
+            "the fisherman"
+        ],
+        [
+            "de schoen",
+            "the shoe"
+        ],
+        [
+            "'s avonds",
+            "in the evening"
+        ],
+        [
+            "toen",
+            "at that time (past)"
+        ],
+        [
+            "de das",
+            "the scarf"
+        ],
+        [
+            "worden",
+            "to become"
+        ],
+        [
+            "netto",
+            "net"
+        ],
+        [
+            "hallo",
+            "hello"
+        ],
+        [
+            "het kleinkind",
+            "the grandchild"
+        ],
+        [
+            "april",
+            "April"
+        ],
+        [
+            "kwart voor zeven 's ochtends",
+            "quarter to seven am"
+        ],
+        [
+            "tussen",
+            "between"
+        ],
+        [
+            "rond",
+            "around"
+        ],
+        [
+            "zo",
+            "like this"
+        ],
+        [
+            "wie",
+            "who"
+        ],
+        [
+            "zonnen",
+            "to sunbathe"
+        ],
+        [
+            "de woning",
+            "the house"
+        ],
+        [
+            "alsjeblieft",
+            "here you are"
+        ],
+        [
+            "laten",
+            "to leave"
+        ],
+        [
+            "de douche",
+            "the shower"
+        ],
+        [
+            "de rok",
+            "the skirt"
+        ],
+        [
+            "de vader",
+            "the father"
+        ],
+        [
+            "kopen",
+            "to buy"
+        ],
+        [
+            "de ochtend, de morgen",
+            "the morning"
+        ],
+        [
+            "de neef",
+            "the cousin, the nephew"
+        ],
+        [
+            "de leraar",
+            "the teacher"
+        ],
+        [
+            "leren",
+            "to learn"
+        ],
+        [
+            "de stoel",
+            "the chair"
+        ],
+        [
+            "brengen",
+            "to bring"
+        ],
+        [
+            "de vergoeding",
+            "the compensation"
+        ],
+        [
+            "wat",
+            "what"
+        ],
+        [
+            "de woonboot",
+            "the house boat"
+        ],
+        [
+            "de ervaring",
+            "the experience"
+        ],
+        [
+            "de directeur",
+            "the (company) director"
+        ],
+        [
+            "saai",
+            "boring"
+        ],
+        [
+            "avond",
+            "evening"
+        ],
+        [
+            "daar",
+            "there"
+        ],
+        [
+            "duizend",
+            "thousand"
+        ],
+        [
+            "de opleiding",
+            "the education"
+        ],
+        [
+            "vijf voor acht",
+            "five to eight"
+        ],
+        [
+            "solliciteren",
+            "to apply for"
+        ],
+        [
+            "de vrouw",
+            "the woman"
+        ],
+        [
+            "vier",
+            "four"
+        ],
+        [
+            "de taal",
+            "the language"
+        ],
+        [
+            "stappen",
+            "to go out (and drink)"
+        ],
+        [
+            "zonder",
+            "without"
+        ],
+        [
+            "tegen",
+            "against"
+        ],
+        [
+            "krijgen",
+            "to get"
+        ],
+        [
+            "welke dag (van de week)?",
+            "which day of the week"
+        ],
+        [
+            "uitgaan",
+            "to go out"
+        ],
+        [
+            "het vliegveld",
+            "the airport"
+        ],
+        [
+            "de winkel",
+            "the shop"
+        ],
+        [
+            "voor",
+            "before"
+        ]
+    ]
+}
